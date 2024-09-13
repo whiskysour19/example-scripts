@@ -99,3 +99,9 @@ ENV/
 example_model.xgb
 
 .DS_Store
+
+
+.venv
+
+v5.0
+
